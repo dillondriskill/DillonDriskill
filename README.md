@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @platypushunter
-- 👀 I’m interested in security based research.
+- 👋 Hi, I’m Dillon Driskill
+- 👀 I’m interested in Embedded Security
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on projects that go outside the box, find issues, and address them.
 - 📫 How to reach me platypus00102#9396 on discord
